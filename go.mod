@@ -131,9 +131,9 @@ require (
 	github.com/webx-top/chardet v0.0.0-20180930194453-2f90d95f7b7f // indirect
 	github.com/webx-top/client v0.3.2
 	github.com/webx-top/codec v0.0.3
-	github.com/webx-top/com v0.2.2
-	github.com/webx-top/db v1.4.4
-	github.com/webx-top/echo v2.15.2+incompatible
+	github.com/webx-top/com v0.2.5
+	github.com/webx-top/db v1.4.5
+	github.com/webx-top/echo v2.16.1+incompatible
 	github.com/webx-top/image v0.0.8
 	github.com/webx-top/pagination v0.1.0
 	gocloud.dev v0.23.0
